@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/mnt/c/git/vhdl/hdlstuff.git/pipeline'
 let g:netrw_dirhist_3='/mnt/c/git/vhdl/hdlstuff.git/textio2/reader'
 let g:netrw_dirhist_2='/mnt/c/git/vhdl/hdlstuff.git/textio2'
 let g:netrw_dirhist_1='/mnt/c/git/vhdl/hdlstuff.git/textio2/reader'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_8='/mnt/c/git/vhdl/hdlstuff.git/textio2/reader'
 let g:netrw_dirhist_7='/mnt/c/git/vhdl/hdlstuff.git/textio2'
 let g:netrw_dirhist_6='/mnt/c/git/vhdl/hdlstuff.git'
 let g:netrw_dirhist_5='/mnt/c/git/vhdl/hdlstuff.git/fsm'
-let g:netrw_dirhist_4='/mnt/c/git/vhdl/hdlstuff.git/cinterface'
